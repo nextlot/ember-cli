@@ -55,7 +55,7 @@
     "configstore",
     "connect-chain",
     "connect-livereload",
-    "expresss",
+    "express",
     "diff",
     "express",
     "findup",
